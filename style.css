@@ -37,7 +37,7 @@ body {
 .adding-task__input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .adding-task__row {
@@ -159,12 +159,12 @@ ul#completed-tasks label {
 
 /* Edit Task */
 .tasks__item input[type=text] {
-  display: none
+  display: none;
 }
 
 .edit-mode input[type=text] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .edit-mode label {
